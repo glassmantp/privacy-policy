@@ -7,6 +7,6 @@
   It accesses WHOOP data solely for the personal use of the account owner. 
   No data is shared with or sold to third parties. 
   No data is stored beyond the local machine of the account owner.</p>
-  <p>Contact: your_email@northeastern.edu</p>
+  <p>Contact: glassman.t@northeastern.edu</p>
 </body>
 </html>
